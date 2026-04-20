@@ -14,8 +14,7 @@ det(A) = Σ (-1)^(i+k) * a_ik * M_ik
 
 ## Soal 1 (Matriks 2×2)
 
-A = 
-    | -7  -5 |
+A = | -7  -5 |
     |  1   4 |
 
 Perhitungan:
